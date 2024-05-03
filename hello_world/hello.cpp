@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
     {
-        string name{"Manpasu"};
+        string name{"Manpersu"};
         std::cout<< "Hello " << name <<endl;
 
 
