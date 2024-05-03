@@ -8,8 +8,8 @@ using namespace std;
 
 int main()
     {
-        string name{"Manpersu"};
-        std::cout<< "Hello " << name <<endl;
+        string name{"James Bond"};
+        std::cout<< "Hello " << name <<", we've been expecting you." <<endl;
 
 
     }
