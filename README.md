@@ -16,7 +16,7 @@ using namespace std;
 
 int main()
     {
-        string name{"Manpersu"};
+        string name{"James Bond"};
         std::cout<< "Hello " << name <<endl;
 
 
